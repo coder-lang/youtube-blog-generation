@@ -8,6 +8,7 @@ This project extracts a YouTube video transcript and converts it into a structur
 - Uses AI for content refinement
 - Human Feedback
 - Final Blog
+- Monitor on langsmith
 
   📂 youtube-blog-generator
 │-- app.py                # Main Streamlit app
