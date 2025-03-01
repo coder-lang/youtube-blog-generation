@@ -9,4 +9,11 @@ This project extracts a YouTube video transcript and converts it into a structur
 - Human Feedback
 - Final Blog
 
+  📂 youtube-blog-generator
+│-- app.py                # Main Streamlit app
+│-- requirements.txt       # Dependencies
+│-- README.md             # Project Documentation
+│-- start.sh (optional)   # For cloud deployment
+
+
 
