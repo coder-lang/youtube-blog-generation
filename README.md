@@ -9,6 +9,7 @@ This project extracts a YouTube video transcript and converts it into a structur
 - Human Feedback
 - Final Blog
 - Monitor on langsmith
+- Blog for English Transcript only
 
   📂 youtube-blog-generator
 │-- app.py                # Main Streamlit app
